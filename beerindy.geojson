@@ -1,0 +1,2823 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.831833,
+                    39.268204,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "450 North Brewing Co",
+                "description": "<div dir=\"ltr\">Located on the Simmons Winery property.</div>",
+                "PlaceName": "450North Brewing Co",
+                "Website": "http://www.450northbrewing.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.726074,
+                    41.611336,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Back Road Brewery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.016083,
+                    40.04549,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Barley Island Brewing Co"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.082855,
+                    39.87561,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bier Brewery",
+                "description": "Indianapolis, IN 46220<br><img src=\"http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=39.875953,-86.082757&amp;thumb=0\">"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.896294,
+                    39.829834,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Big Dawg Brew Haus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.248169,
+                    39.208847,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Big Woods Brewing Company Llc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.247063,
+                    39.207844,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Big Woods Pizza Co."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.0709,
+                    39.77092,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Black Acre Brewing Co."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.37159,
+                    39.674858,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Black Swan Brewpub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.511841,
+                    39.172661,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bloomington Brewing Co"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.142738,
+                    39.873619,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Broad Ripple Brew Pub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.141373,
+                    39.87059,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brugge Brasserie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.495132,
+                    41.67944,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bull Dog Brewing Co"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.363564,
+                    41.415794,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Crown Brewing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.345222,
+                    39.761555,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cutters Brewing Co.",
+                "description": "<font face=\"arial\" size=\"2\">9973 E US highway 36<br>Avon, IN 46123</font><br><div><font face=\"arial\" size=\"2\"><br></font></div><div><font face=\"arial\" size=\"2\">(Formerly Bloomington based)</font></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.424797,
+                    41.212177,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Evil Czech Brewing (Marmont Grill)",
+                "description": "<font face=\"arial\" size=\"2\">530 S Ohio St&nbsp;Culver, IN 46511</font><br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.080383,
+                    41.473602,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Figure Eight Brewing LLC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.138374,
+                    39.772739,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Flat12 Bierwerks",
+                "description": "<div dir=\"ltr\">Smoking Goose delivers from across the street.</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.140739,
+                    39.749592,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fountain Square Brewing Co"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.244431,
+                    41.668201,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Four Horsemen Brewing Company"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.160622,
+                    39.927116,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Granite City - Indianapolis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.187744,
+                    41.718029,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Granite City - Mishawaka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.135803,
+                    41.111176,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Granite City - Fort Wayne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.899597,
+                    39.057316,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Great Crescent Brewery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.127319,
+                    40.434406,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Half Moon Restaurant & Brewery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.974884,
+                    41.689835,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Iechyd Da Brewing Co"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.140793,
+                    39.765831,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Indiana City Brewing Co. - Coming Soon",
+                "description": "Indianapolis, IN 46202<br><a href=\"https://maps.google.com/maps/place?ftid=0x886b508edd191a6f:0xad524a032980192a&amp;q=24+Shelby+Street,+indianapolis&amp;gl=us&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=FG8JULPVAtSzwAH5qMnSDQ&amp;sig2=WyeOd2bwfv2NjnWqH_cpZA&amp;dtab=5\" target=\"_blank\"><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=39.765832,-86.140794&amp;thumb=0\"></a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.889923,
+                    40.419182,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lafayette Brewing Co"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.218491,
+                    39.296646,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "LiL' Charlie's Restaurant & Brewery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.152283,
+                    41.067963,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mad Anthony Brewing Co - Fort Wayne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.858154,
+                    41.236511,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mad Anthony Brewing Company"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.822327,
+                    38.286823,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New Albanian Bank St Brewhouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.817253,
+                    38.328007,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New Albanian Public House & Pizzaria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.891373,
+                    39.834255,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New Boswell Brewing Company"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.139648,
+                    39.752438,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New Day Meadery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.090141,
+                    39.614971,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oaken Barrel Brewing Co"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.147156,
+                    39.77533,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Outliers Brewing/The Owner's Wife (Coming Soon)",
+                "description": "<div dir=\"ltr\"></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.886047,
+                    40.437607,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "People's Brewing Company"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.029129,
+                    39.536617,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Planetary Brewing Co.",
+                "description": "Greenwood, IN 46143<br><a href=\"https://maps.google.com/maps/place?ftid=0x886b5d35d4975b85:0x6e5e39f2131c53a0&amp;q=500+POLK+ST.,+STE+22&amp;hl=en&amp;authuser=0&amp;t=h&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=Ir-XUMi6B8HnwQGJy4HYDw&amp;sig2=-DGA82kjDNiFNcelj1xezg&amp;dtab=5\" target=\"_blank\"><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=39.609632,-86.098548&amp;thumb=0\"></a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.922211,
+                    39.20248,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Power House Brewing Co."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.160194,
+                    39.764645,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ram Restaurant & Brewery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.209442,
+                    39.912598,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rock Bottom College Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.158752,
+                    39.76733,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rock Bottom Downtown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.52832,
+                    38.925228,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Salt Creek Brewery inc."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.906128,
+                    41.719521,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Shoreline Brewery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.145515,
+                    39.768963,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sun King Brewing Co"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.140846,
+                    39.869564,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Thr3e Wise Men Brewery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.51709,
+                    41.535309,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Three Floyds Micro Brewery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.369888,
+                    39.678043,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Three Pints Brewpub",
+                "description": "Plainfield, IN 46168<br><img src=\"http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=39.678010,-86.369819&amp;thumb=0\">"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.00705,
+                    39.860275,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Triton Brewing Company"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.56395,
+                    37.981144,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Turoni's Pizzery & Brewery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.899437,
+                    38.955948,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Twisted Crew Brewing Company"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.129097,
+                    39.971703,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Union Brewing Company"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.537491,
+                    39.17334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Upland Brewing Co"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.918884,
+                    39.209278,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "ZwanzigZ Pizza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.141441,
+                    39.869644,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "10-01 Food & Drink"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.072426,
+                    39.913219,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ale Emporium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.14592,
+                    39.847305,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Aristocrat Pub & Restaurant",
+                "description": "<div dir=\"ltr\"><br>&nbsp;</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.153351,
+                    39.771732,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Ball & Biscuit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.158562,
+                    39.730556,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Barringer's Tavern",
+                "description": "<div dir=\"ltr\"></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.144447,
+                    39.870308,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bazbeaux Pizza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.153549,
+                    39.771629,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bazbeaux Pizza",
+                "Address": "333 Massachusetts Avenue Indianapolis, IN 46204",
+                "Categories": "Pizza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.455093,
+                    41.53743,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Beer Geeks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.055733,
+                    39.906223,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Beer Sellar",
+                "description": "<div dir=\"ltr\"></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.146233,
+                    39.862427,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Binkley's Kitchen & Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.12291,
+                    39.883118,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Birdy's Bar & Grill",
+                "description": "<div dir=\"ltr\"></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.141914,
+                    39.780159,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Black Market",
+                "description": "<div><br>&nbsp;</div>Indianapolis, IN 46202<br><img src=\"http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=39.780159,-86.141913&amp;thumb=0\">"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.89473,
+                    40.419106,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Black Sparrow"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.145844,
+                    39.757874,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bluebeard",
+                "description": "Indianapolis, IN 46203<br><a href=\"https://maps.google.com/maps/place?ftid=0x886b509c9f9de3eb:0x958ab23a321cd5a4&amp;q=653+Virgina+Avenue,+Indianapolis&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=_j_zT9fXFIWewAH-k_XOCA&amp;sig2=edUaB9qWA39tYGe-NDxY0w&amp;dtab=5\" target=\"_blank\"><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=39.757873,-86.145840&amp;thumb=0\"></a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.139671,
+                    39.750378,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brass Ring Lounge",
+                "description": "<div dir=\"ltr\"></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.152138,
+                    39.773132,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bru Burger Bar",
+                "PlaceName": "Bru ",
+                "Website": "http://www.bruonmass.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.747963,
+                    38.268276,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Buckhead Mountain Grill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.146461,
+                    39.776665,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chatham Tap"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.151169,
+                    39.773228,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chatterbox Jazz Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.265495,
+                    39.881752,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chef Mike's Charcoal Grill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.894379,
+                    40.418812,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chumley's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.143585,
+                    39.869816,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chumley's Beer House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.142815,
+                    39.870621,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Corner Wine Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.145706,
+                    39.869362,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Crackers Comedy Club: Broad Ripple",
+                "description": "<div dir=\"ltr\"></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.165779,
+                    39.782131,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Creation Cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.156403,
+                    39.768257,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dick's Bodacious Bar-B-Q"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.138809,
+                    39.779087,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dorman Street",
+                "description": "<div dir=\"ltr\">Cocktails, Craft Beer and a rockin jukebox. </div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.139641,
+                    39.752235,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "End of the Line Public House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.533127,
+                    39.166454,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "FARMbloomington Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.385742,
+                    40.191463,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fickle Peach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.252182,
+                    41.677334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fiddler's Hearth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.143517,
+                    39.874516,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire by the Monon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.084747,
+                    39.635307,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fireside Brewhouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.143303,
+                    39.870712,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Flatwater Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.153931,
+                    39.771664,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Front Page Tavern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.595726,
+                    37.980373,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gerst Haus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.152916,
+                    39.803066,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Goose the Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.159843,
+                    39.764606,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Harry & Izzy's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.109039,
+                    39.692822,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Harry C's",
+                "description": "Indianapolis, IN 46227<br><img src=\"http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=39.692820,-86.109038&amp;thumb=0\">"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.022552,
+                    39.956707,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hearthstone Coffee House and Pub",
+                "description": "<div><span style=\"text-align:center;background-color:rgb(255, 255, 255)\"><span><font size=\"2\" face=\"arial, sans-serif\">8235 E. 116th St.</font></span></span></div><font face=\"arial\" size=\"2\">Fishers, IN 46038</font><br><a href=\"http://maps.google.com/maps/place?ftid=0x8814b39d29ceafad:0x548cbeae8c544e89&amp;q=8235+East+116th+Street,+Fishers,+IN&amp;hl=en&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=syJaT-G-GqiKwAH8lvW9CQ&amp;sig2=tdj5Mr_LXfnYs4TGDDojww&amp;dtab=5\" style=\"font-family:arial;font-size:10pt\" target=\"_blank\"><img src=\"http://cbk0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=39.956707,-86.022550&amp;thumb=0\"></a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.386658,
+                    40.192223,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Heorot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.139687,
+                    39.751999,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Imbibe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.168205,
+                    39.76667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "JW Marriott Indianapolis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.140953,
+                    39.752949,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "La Margarita Fountain Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.110764,
+                    39.915257,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Landmark-Keystone Art Cinema",
+                "description": "Drink in the theatre.<br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.156746,
+                    39.767204,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Libertine Liquor Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.145897,
+                    39.773724,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lockerbie Pub",
+                "description": "<div dir=\"ltr\"></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.288239,
+                    39.917065,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Loft Restaurant & Dairy Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.163734,
+                    39.767033,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Loughmiller's Pub & Eatery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.145836,
+                    39.77705,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mass Avenue Pub Inc",
+                "description": "<div dir=\"ltr\"></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.153168,
+                    39.771858,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "MacNiven's Restaurant & Bar",
+                "description": "<div dir=\"ltr\"></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.116158,
+                    39.95673,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mellow Mushroom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.159248,
+                    39.825676,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Melody Inn",
+                "description": "<div dir=\"ltr\"></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.145699,
+                    39.763313,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Milano Inn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.404167,
+                    39.462975,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "M Moggers Restaurant & Pub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.142738,
+                    39.873295,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Monon Food Company"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.154221,
+                    39.842751,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Napolese"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.146118,
+                    39.874393,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Northside Social"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.151924,
+                    39.772751,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Old Point Tavern Inc",
+                "description": "<div dir=\"ltr\"></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.159592,
+                    39.76395,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Omni Severin Hotel in Indianapolis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.156532,
+                    39.765987,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "O'Reilly's Irish Bar and Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.278152,
+                    39.950211,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Patrick's Kitchen and Drinks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.237816,
+                    39.20055,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pine Room Tavern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.070755,
+                    39.979389,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pizzology"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.14267,
+                    39.873116,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Plump's Last Shot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.099464,
+                    39.908428,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Puccini's Smiling Teeth Pizza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.186142,
+                    39.912338,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Puccini's Smiling Teeth Pizza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.138985,
+                    39.75227,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Radio Radio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.14389,
+                    39.770821,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ralph's Great Divide",
+                "description": "<div dir=\"ltr\"></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.147568,
+                    39.775894,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ralston's DraftHouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.149986,
+                    39.773781,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rathskeller Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.145493,
+                    39.843147,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Recess/Room Four Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.140976,
+                    39.752689,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Red Lion Grog House",
+                "description": "<div dir=\"ltr\"></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.138741,
+                    39.75246,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Revolucion",
+                "description": "<div dir=\"ltr\">Tacos, Craft Beer, and a Tiki Bar in back.  But they disguise a BMC lager as a craft tap.</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.301041,
+                    39.828049,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rick's Cafe Boatyard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.749718,
+                    38.268486,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rocky's Sub Pub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.179657,
+                    39.912449,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rusty Bucket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.12114,
+                    39.875648,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sahm's Place"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.387749,
+                    40.194473,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Savage's Alehouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.900253,
+                    40.42065,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Scotty's Brewhouse - Lafayette"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.098526,
+                    39.926704,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Scotty's Brewhouse - Northside Indianapolis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.155983,
+                    39.766136,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Scotty's Brewhouse - Downtown Indianapolis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.533447,
+                    39.1688,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Scotty's Brewhouse - Bloomington"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.94751,
+                    39.93552,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Scotty's Lakehouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.125443,
+                    39.638363,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Shallos Antique Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.142052,
+                    39.754356,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Siam Square Thai Cuisine",
+                "description": "<div dir=\"ltr\"></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.145508,
+                    39.843426,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Sinking Ship",
+                "description": "<div dir=\"ltr\"></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.139641,
+                    39.752277,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Smokehouse on Shelby",
+                "description": "<div dir=\"ltr\">IMBIBE is located in same building between Smokehouse and End of the Line.</div>",
+                "PlaceName": "Smokehouse on Shelby",
+                "Phone": null,
+                "Categories": "Diner, Barbeque"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.258186,
+                    39.909878,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Squealers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.159828,
+                    39.764809,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St. Elmo's Steak House/1933 Lounge",
+                "description": "<div dir=\"ltr\">1933 Lounge upstairs</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.535217,
+                    39.166763,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Tap",
+                "description": "<br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.166275,
+                    39.761261,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tavern On South"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.017181,
+                    41.073063,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Trion Tavern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15406,
+                    39.768551,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Tomlinson Tap Room"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.262108,
+                    39.912277,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Traders Mill Grill & Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.401733,
+                    37.974514,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Turoni's Pizzery & Brewery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.529671,
+                    37.977356,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Turoni's Pizzery & Brewery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.146004,
+                    39.851299,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Twenty Tap"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.142052,
+                    39.869846,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Union Jack Pub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.145927,
+                    39.842537,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Upland Brewing Co - Indy Tasting Room",
+                "description": "<div dir=\"ltr\">Tasting Room only.  No Sunday Sales.</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.168411,
+                    39.764931,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Victory Field"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.145958,
+                    39.869209,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Vogue",
+                "description": "<div dir=\"ltr\">Music Venue</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.139191,
+                    39.752468,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "White Rabbit Cabaret LLC",
+                "description": "<div dir=\"ltr\"></div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.527245,
+                    39.171734,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Yogi's Grill & Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.065521,
+                    39.781631,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Zanies Too"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.124252,
+                    39.868229,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "21st Amendment - 62nd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.180084,
+                    39.9128,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "21st Amendment - North"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.121658,
+                    39.882999,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "21st Amendment - North Keystone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.152122,
+                    39.78054,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Alabama Liquor Store"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.224648,
+                    41.693935,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Belmont Beverage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.534584,
+                    39.176918,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Big Red Liquors"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.145279,
+                    39.842979,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bottle Shoppe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.843735,
+                    41.588741,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chalet Party Shoppe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.249718,
+                    41.67522,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "City Wide Liquors Inc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.199287,
+                    39.664089,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Crown Liquors"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.15461,
+                    39.769695,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Crown Liquors"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.206924,
+                    39.912392,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Crown Liquors"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.157875,
+                    39.971069,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Crown Liquors"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.156128,
+                    39.767647,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "John's Spirits Decanters & Fine Wines"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.121742,
+                    39.84993,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kahn's Fine Wines & Spirits"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.202156,
+                    39.912125,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kahn's Fine Wines & Spirits - North Willow"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.765869,
+                    38.312237,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Keg Liquors - Clarksville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.822441,
+                    38.285049,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Keg Liquors - New Albany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.142769,
+                    39.779476,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mass Ave Wine Shoppe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.99823,
+                    40.04549,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mr G's Liquor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.144997,
+                    39.968437,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Payless Liquors Inc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.117287,
+                    39.64999,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Parti Pak Liquors"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.116852,
+                    39.774506,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rural Inn: Keg Beer Near Downtown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.500397,
+                    39.164452,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sahara Mart"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.533295,
+                    39.161346,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sahara Mart"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.18573,
+                    39.664188,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Southport Liquors"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.075127,
+                    39.904739,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Trader Joe's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.212456,
+                    39.912491,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Trader Joe's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.158478,
+                    39.636166,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "United Package Liquor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.141541,
+                    39.86982,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "United Package Liquors Inc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.120796,
+                    39.961597,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Vine & Table gourmet market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.258812,
+                    41.514488,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WiseGuys Discount Liquors | Hobart"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.145416,
+                    41.087631,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brewer's Art Supply"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.083176,
+                    39.875607,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Great Fermentations of Indiana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.085678,
+                    41.179173,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hops & Harvest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.365898,
+                    41.417515,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kennywood Brewing Supply"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.968018,
+                    41.688297,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Quality Wine & Ale Supply LLC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.139236,
+                    39.751198,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tuxedo Park Brewers Equipment & Supply Company"
+            }
+        }
+    ]
+}
